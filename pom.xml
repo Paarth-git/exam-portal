@@ -19,7 +19,7 @@
   </dependencies>
 
   <build>
-    <finalName>examportal</finalName>
+    <finalName>ROOT</finalName>
   </build>
 
 </project>
