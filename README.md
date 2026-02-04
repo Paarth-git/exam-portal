@@ -15,6 +15,8 @@ A web-based exam portal developed using Java Servlets and JSP.
 - HTML, CSS
 - Apache Tomcat
 - Eclipse IDE
+- SQL
+- Bootstrap
 
 ## Author
 Paarth Sharma
